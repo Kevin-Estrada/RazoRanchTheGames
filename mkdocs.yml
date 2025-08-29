@@ -1,0 +1,57 @@
+site_name: 'Razo Ranch: The Games'
+
+site_url: "https://thegamesseason4.github.io/"
+
+extra:
+  analytics:
+      provider: google
+      property: UA-200100765-2
+  homepage: https://thegamesseason4.github.io/
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:thegamesseason4@gmail.com
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/402071600554925/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/jrazo1988/videos
+    - icon: fontawesome/brands/github
+      link: https://github.com/thegamesseason4/thegamesseason4.github.io
+
+theme:
+  favicon: images/favicon.ico
+  logo: images/favicon.ico
+  features:
+    - navigation.top
+    - toc.integrate
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: slate
+      accent: red
+      # toggle:
+      #   icon: material/toggle-switch
+      #   name: Switch to light mode
+    # - scheme: default
+    #   accent: red
+    #   toggle:
+    #     icon: material/toggle-switch-off-outline
+    #     name: Switch to dark mode
+  features:
+    - navigation.tabs
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+  - Home Page: index.md
+  - Previous Activities:
+      - Paintball Wars: previous_activities/paintball_wars.md
+      - Obstacle Course: previous_activities/obstacle_course.md
+      - Season 1: previous_activities/season_one.md
+      - Season 2: previous_activities/season_two.md
+      - Season 3: previous_activities/season_three.md
+
+# copyright: Copyright &copy; 2015 - 2021 Jose Razo
