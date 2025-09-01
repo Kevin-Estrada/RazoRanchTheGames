@@ -1,12 +1,12 @@
 site_name: 'Razo Ranch: The Games'
 
-site_url: "https://thegamesseason4.github.io/"
+site_url: "https://razoranchthegames.com/"
 
 extra:
   analytics:
       provider: google
       property: UA-200100765-2
-  homepage: https://thegamesseason4.github.io/
+  homepage: https://razoranchthegames.com/
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:thegamesseason4@gmail.com
@@ -15,7 +15,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/user/jrazo1988/videos
     - icon: fontawesome/brands/github
-      link: https://github.com/thegamesseason4/thegamesseason4.github.io
+      link: https://https://github.com/Kevin-Estrada/RazoRanchTheGames
 
 theme:
   favicon: images/favicon.ico
