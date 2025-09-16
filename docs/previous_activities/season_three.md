@@ -16,8 +16,10 @@ Contestants were asked to submit captain submissions. 3 males and 3 females were
 
 <figure>
 <img src="../../images/season3_group_photo.jpg" alt="Season 3 Group Photo"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">Team Chaos joins the rest of the cast as a surprise 7th team to stir up the pot</figcaption>
+<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">The entire season cast before the start of the games.</figcaption>
 </figure>
+<hr>
+## Meet Teams
 
 <div class="cards">
   <div class="card">
@@ -63,7 +65,7 @@ Contestants were asked to submit captain submissions. 3 males and 3 females were
     </div>
   </div>
 </div>
-
+<p>Team Chaos joins the rest of the cast as a surprise 7th team to stir up the pot</p>
 ---
 
 ## Finalists
@@ -76,5 +78,7 @@ Contestants were asked to submit captain submissions. 3 males and 3 females were
 
 <figure>
 <img src="../../images/season3_winner.jpg" alt="Season 3 Winner"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em;">Chris</figcaption>
+<div class="winner-labels">
+  <span class="winner-1st">🥇 Chris</span>
+</div>
 </figure>

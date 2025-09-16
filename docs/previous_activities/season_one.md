@@ -59,5 +59,7 @@ Challengers from all over were summoned to come and compete in this epic, yet un
 
 <figure>
 <img style="max-width:60%; height:auto;" class="center-image" src="../../images/s-one-winner.jpg" alt="Season One Winner"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em;">Dante</figcaption>
+<div class="winner-labels">
+  <span class="winner-1st">🥇 Dante</span>
+</div>
 </figure>

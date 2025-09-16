@@ -1,5 +1,11 @@
 # RazoRanchTheGames
 
+Setting up
+1. run "python -m venv .venv"
+2. activate the Virtual env "source .venv/Scripts/activate"
+3. install below
+
+
 Steps for setting up
 
 1. Install mkdocs using (pip install mkdocs)

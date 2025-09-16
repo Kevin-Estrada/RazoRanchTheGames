@@ -551,3 +551,42 @@ p {
     transform: skewX(10deg) skewY(-10deg);
   }
 }
+
+/* For winners css */
+.winner-labels {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2vw;
+  margin-bottom: 1em;
+}
+.winner-labels span {
+  display: block;
+  font-family: "Papyrus", "Consolas", "Menlo", "Monaco", "monospace", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0.2em 0.6em;
+  border-radius: 0.5em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+.winner-2nd {
+  color: #C0C0C0;
+  background: rgba(40, 40, 40, 0.7);
+}
+.winner-1st {
+  color: #FFD700;
+  background: rgba(40, 40, 40, 0.7);
+}
+.winner-3rd {
+  color: #CD7F32;
+  background: rgba(40, 40, 40, 0.7);
+}
+@media (max-width: 700px) {
+  .winner-labels {
+    gap: 1vw;
+  }
+  .winner-labels span {
+    font-size: 1.05rem;
+    padding: 0.15em 0.3em;
+  }
+}

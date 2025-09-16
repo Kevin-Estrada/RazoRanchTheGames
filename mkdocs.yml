@@ -48,11 +48,17 @@ extra_javascript:
 nav:
   - Home Page: index.md
   - Previous Activities:
-      - Paintball Wars: previous_activities/paintball_wars.md
-      - Obstacle Course: previous_activities/obstacle_course.md
-      - Season 1: previous_activities/season_one.md
-      - Season 2: previous_activities/season_two.md
-      - Season 3: previous_activities/season_three.md
+      # - Paintball Wars: previous_activities/paintball_wars.md
+      # - Obstacle Course: previous_activities/obstacle_course.md
+      # - Season 1: previous_activities/season_one.md
+      # - Season 2: previous_activities/season_two.md
+      # - Season 3: previous_activities/season_three.md
+      # - Season 4: previous_activities/season_four.md
       - Season 4: previous_activities/season_four.md
+      - Season 3: previous_activities/season_three.md
+      - Season 2: previous_activities/season_two.md
+      - Season 1: previous_activities/season_one.md
+      - Obstacle Course: previous_activities/obstacle_course.md
+      - Paintball Wars: previous_activities/paintball_wars.md
 
 # copyright: Copyright &copy; 2015 - 2021 Jose Razo

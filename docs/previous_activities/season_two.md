@@ -36,5 +36,7 @@ Challengers were recruited to come compete once again. This time around, the the
 
 <figure>
 <img src="../../images/season2_winner.jpg" alt="Season Two Winner"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em;">Maria</figcaption>
+<div class="winner-labels">
+  <span class="winner-1st">🥇 Maria</span>
+</div>
 </figure>

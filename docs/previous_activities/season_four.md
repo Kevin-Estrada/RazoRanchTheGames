@@ -40,7 +40,7 @@ But this season, Titans weren’t just mythology—they were real. In a shocking
 A surprise that turned contenders into hunters… and raised the stakes to even further.
 
 <figure>
-<img src="../../images/the_titans.png" alt="Season 4 Group Photo"/>
+<img src="../../images/the_titans.jpg" alt="Season 4 Group Photo"/>
 <figcaption style="max-width: 34rem; font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em"><b>Front/females: </b>Marisa & Mirna</figcaption>
 <figcaption style="max-width: 34rem; font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em"><b>Back/males: </b>Miguel & Greg</figcaption>
 </figure>
@@ -57,10 +57,10 @@ A surprise that turned contenders into hunters… and raised the stakes to even 
 
 ## Winners
 
-![Something went wrong with this picture](../images/season4_winners.jpg "Season 4 Finalists Group Photo")
-
-### 1st Angel
-
-### 2nd Wendy
-
-### 3rd Kevin
+<!-- <img src="../../images/season4_winners.jpg" alt="Winners" style="display: block; margin: 0 auto; width: 80%; max-width: 600px; border-radius: 1em; box-shadow: 0 4px 24px rgba(0,0,0,0.18);"> -->
+<p><img src="../../images/season4_winners.jpg" alt="Winners" style="display: block; margin: 0 auto; border-radius: 1em; box-shadow: 0 4px 24px rgba(0,0,0,0.18);"></p>
+<div class="winner-labels">
+  <span class="winner-3rd">🥉 Kevin</span>
+  <span class="winner-1st">🥇 Angel</span>
+  <span class="winner-2rd">🥈 Wendy</span>
+</div>
