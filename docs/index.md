@@ -6,7 +6,7 @@ hide:
 
 # Season 5
 
-## Coming Soon...
+## Games begin: 11/29/2025
 
 <main>
 <div id="apoc-bg">

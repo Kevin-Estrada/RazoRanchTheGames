@@ -204,16 +204,48 @@ function randomInt(max) {
   return Math.floor(Math.random() * max);
 }
 
+// function randomTimerString() {
+//   // 20% chance to show a glitch message
+//   if (Math.random() < 0.2) {
+//     return glitchMessages[randomInt(glitchMessages.length)];
+//   } else {
+//     var days = randomInt(100);
+//     var hours = randomInt(24);
+//     var minutes = randomInt(60);
+//     var seconds = randomInt(60);
+//     return days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+//   }
+// }
+
 function randomTimerString() {
   // 20% chance to show a glitch message
   if (Math.random() < 0.2) {
     return glitchMessages[randomInt(glitchMessages.length)];
   } else {
-    var days = randomInt(100);
-    var hours = randomInt(24);
-    var minutes = randomInt(60);
-    var seconds = randomInt(60);
-    return days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+    var countDownDate = new Date("Nov 29, 2025 12:00:00").getTime();
+    var x = setInterval(function () {
+      // Get today's date and time
+      var now = new Date().getTime();
+
+      // Find the distance between now and the count down date
+      var distance = countDownDate - now;
+
+      // Time calculations for days, hours, minutes and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor(
+        (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+      );
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      // Display the result in the element with id="demo"
+      if (distance < 0) {
+        clearInterval(x);
+        return "THE GAMES ARE ON!";
+      } else {
+        return days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+      }
+    }, 1000);
   }
 }
 
@@ -230,20 +262,35 @@ function continuousGlitchTimer() {
   var timerElem = document.getElementById("countdowntimer");
   if (!timerElem) return;
 
-  let baseStr = randomTimerString();
   let count = 0;
-  let maxShuffle = 3; // Number of shuffles before switching to a new base string
+  let maxGlitchMsg = 2; // Show a glitch message every 5 cycles
+
+  function getCountdownString() {
+    var countDownDate = new Date("Nov 29, 2025 12:00:00").getTime();
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    if (distance < 0) {
+      return "THE GAMES ARE ON!";
+    } else {
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor(
+        (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+      );
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+      return days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+    }
+  }
 
   function loop() {
-    // Every few cycles, pick a new base string
-    if (count % maxShuffle === 0) {
-      baseStr = randomTimerString();
-    }
-    // Shuffle digits for the glitch effect
-    timerElem.innerHTML = shuffleDigits(baseStr);
+    let showGlitchMsg = count % maxGlitchMsg === 0 && Math.random() < 0.3;
+    let baseStr = showGlitchMsg
+      ? glitchMessages[randomInt(glitchMessages.length)]
+      : getCountdownString();
+    timerElem.innerHTML = baseStr;
     timerElem.classList.add("glitch");
     count++;
-    setTimeout(loop, 700); // Much slower pace (adjust as needed)
+    setTimeout(loop, 700);
   }
   loop();
 }
