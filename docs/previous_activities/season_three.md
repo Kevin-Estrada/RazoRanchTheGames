@@ -8,7 +8,14 @@
 
 ## Description
 
-Contestants were asked to submit captain submissions. 3 males and 3 females were selected as captains. They were asked to recruit and complete a team of 3 males and 3 females (including themselves). The captains recruited their team and showed up ready to compete. Right before the games began, a surprise 7th team of 6 joined the game, making it a total of 42 contestants. After every challenge, there was both a male and female head to head elimination where the winner(s) rejoined the game in their prospective teams. After a long day of battles, 10 contestants attempted the final. One gladiator became victorious amongst all the other competitors.
+The Arena Was Set. The Battle Was On.
+It began with a call to arms: contestants submitted their bids to become captains. From the chaos, six emerged—three men and three women—each chosen to lead. Their mission? Assemble a team of warriors: three males, three females, including themselves. They recruited, they trained, and they arrived ready to conquer.
+But just as the dust settled and the games were about to begin... a twist. A seventh team stormed in—unannounced, unshaken, and ready to disrupt. The battlefield now held 42 fierce competitors, and the stakes had never been higher.
+
+Challenge after challenge, the arena roared. After each round, one man and one woman were thrown into head-to-head eliminations. It was brutal. It was relentless. Only the strongest clawed their way back to their teams.
+
+As the sun dipped below the horizon, ten warriors remained. Ten who had endured the trials, the betrayals, the blood and sweat. They faced the final gauntlet—a test of everything they had left.
+And when the dust finally cleared, one gladiator stood alone. Victorious. Unbreakable. The champion of champions.
 
 ---
 

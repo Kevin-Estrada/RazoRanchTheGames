@@ -198,6 +198,7 @@ const glitchMessages = [
   "BE READY...",
   "THE FOUR HORSEMEN...",
   "?<$%&#@!*%$<!",
+  "GAME ON!!",
 ];
 
 function randomInt(max) {

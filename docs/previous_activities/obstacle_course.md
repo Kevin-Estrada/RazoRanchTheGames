@@ -8,7 +8,11 @@
 
 ## Description
 
-Open call made out to any competitor wanting to test their physical and mental fortitude. Competitors went head-to-head in different heats. Contestants could go more than once, but only their first attempt would be their official time. Obstacles included competitors to show off their strength, speed, endurance, balance, ingenuity, heart, and determination to complete the course. Completion times varied from 20 minutes to over an hour from start to finish. At the end, there was a special challenge made for teams of 3 where individuals had to get across as a team where one could not hear, one could not speak, and one could not see.
+An open invitation was extended to anyone bold enough to test the limits of their physical and mental resilience. Competitors faced off in a series of heats, each designed to push them to their edge. While participants were allowed multiple runs, only their first attempt counted toward their official time.
+
+The course was a gauntlet of challenges, demanding a full spectrum of abilities—strength, speed, endurance, balance, creativity, grit, and sheer determination. Completion times ranged widely, with some finishing in just 20 minutes and others battling through for over an hour.
+
+To cap off the event, a unique team challenge awaited. Groups of three had to navigate the final obstacle together—one member unable to hear, another unable to speak, and the third unable to see. Success required trust, coordination, and a deep understanding of each other's strengths.
 
 ---
 

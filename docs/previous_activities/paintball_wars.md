@@ -8,7 +8,9 @@
 
 ## Description
 
-20+ participants showed up for a friendly paintball competition. Once there, 4 teams were randomly assigned and a single loss elimination tournament was started. Free-for-all round was optional after the tournament.
+Over 20 adrenaline-fueled players stormed the field for an epic paintball showdown. The air buzzed with anticipation as four teams were randomly formed, each ready to battle it out in a high-stakes, single-elimination tournament—one loss and you're out! Paintballs flew, strategies clashed, and alliances were tested in a blur of color and chaos.
+
+When the final team claimed victory and the dust settled, the fun didn’t stop there. An optional free-for-all round erupted, turning teammates into rivals in a wild, no-holds-barred frenzy. It was messy, it was thrilling—and it was unforgettable.
 
 ---
 

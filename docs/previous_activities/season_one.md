@@ -8,7 +8,13 @@
 
 ## Description
 
-Challengers from all over were summoned to come and compete in this epic, yet unknown social experiment. 20 brave souls arrived and were up for the challenge. On site, they were placed in teams and asked to work with and trust strangers. The set up was that after every challenge, contestants were then nominated to go head-to-head on a one-on-one elimination every round: loser sits out, winner continues to compete. After many twists and turns of The Games, we had 3 finalists run an intense final. First winner for Razo Ranch: The Games was crowned.
+They came from everywhere—drawn by whispers of a challenge unlike any other. Twenty contenders, each bold enough to step into the unknown, arrived at Razo Ranch. What awaited them was no ordinary competition—it was a crucible of trust, betrayal, and raw human grit.
+
+Thrown into teams with strangers, they were forced to forge alliances in the fire of uncertainty. But unity was fleeting. After each brutal challenge, the stakes escalated: one-on-one eliminations where only the strongest, smartest, or most cunning would survive. Victory meant advancement. Defeat meant exile.
+
+As the dust settled and loyalties shattered, only three remained. They faced a final trial—merciless, unrelenting, and designed to push every limit. And when the last breath was drawn and the final obstacle conquered, one stood alone.
+
+The first champion of Razo Ranch: The Games was crowned.
 
 ---
 
